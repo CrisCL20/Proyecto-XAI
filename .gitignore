@@ -1,0 +1,8 @@
+### Python venvs
+.venv
+
+
+### Input data for models
+image_data*
+*.csv
+*.zip
