@@ -6,3 +6,6 @@
 image_data*
 *.csv
 *.zip
+
+### Keras files
+*.keras
